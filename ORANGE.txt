@@ -3,4 +3,9 @@ Violets are BLUE
 Oranges are ORANGE
 And i like Orange things
 
+Roses are ORANGE
+Violets are ORANGE
+All flowers are now ORANGE
+EVERYTHING IT'S ORANGE!!
+
 The End
