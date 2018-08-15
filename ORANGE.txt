@@ -1,11 +1,11 @@
-Roses are RED
-Violets are BLUE
-Oranges are ORANGE
-And i like Orange things
+Roses are 赤い
+Violets are 青い
+Oranges are 橙色
+And i like 橙色 things
 
-Roses are ORANGE
-Violets are ORANGE
-All flowers are now ORANGE
-EVERYTHING IT'S ORANGE!!
+Roses are 橙色
+Violets are 橙色
+All flowers are now 橙色
+EVERYTHING IT'S 橙色!!
 
-The End
+終わり
